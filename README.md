@@ -16,7 +16,5 @@ The script will install the Level5 dataset provided by Lyft, and also download t
 
 The dataset for the challenge is the Lyft Level5 dataset described. Lyft has provided an SDK for dealing with the data, making it easier for people to start training models. While I find dealing with and organizing data to be fun, this is a welcome change as the task itself is quite challenging. The sooner you can start, the better.
 
-For intro EDA, go to this [notebook](notebooks/eda.ipynb)
-
 # Model
 

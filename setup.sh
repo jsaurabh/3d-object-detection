@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # setup lyft dataset sdk
-#pip install lyft-dataset-sdk
+pip install lyft-dataset-sdk
 
 # kaggle competitions data download
 [ -d data ] || mkdir data
