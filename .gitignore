@@ -1,0 +1,8 @@
+# Jupyter Notebook
+*.ipynb_checkpoints/
+
+# Data
+data/
+maps
+lidar
+images
