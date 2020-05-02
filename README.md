@@ -8,7 +8,7 @@ The task for the challenge is to implement a model for object detection over sem
 
 Download the data directly from Kaggle. Setup the [Kaggle API](https://github.com/kaggle/Kaggle-API), accept the competition rules and then run
 
-`bash data/setup.sh`
+`bash setup.sh`
 
 The script will install the Level5 dataset provided by Lyft, and also download the data from Kaggle, and organize it in the required directory structure. This should take a fair amount of time (say 90-95 minutes), so grab a coffee and come back in a while.
 
@@ -18,3 +18,4 @@ The dataset for the challenge is the Lyft Level5 dataset described. Lyft has pro
 
 # Model
 
+Head to the `unet.ipynb` notebook once you're done setting up the data structure.
